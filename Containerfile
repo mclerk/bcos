@@ -1,5 +1,5 @@
 ## 1. Source Image
-FROM ghcr.io/ublue-os/bluefin-dx:stable-daily
+FROM ghcr.io/ublue-os/bluefin-dx:latest
 
 ## 2. MODIFICATIONS
 # make modifications desired in your image and install packages by modifying the build.sh script
